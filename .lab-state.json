@@ -15,5 +15,8 @@
   "testOrgId": "4253b67e-98d0-f111-a04e-6045bd003116",
   "devProfile": "dev",
   "testProfile": "test",
-  "appId": "536fbfae-d10e-4937-ae3c-d5a7d177fb6d"
+  "appId": "536fbfae-d10e-4937-ae3c-d5a7d177fb6d",
+  "packageDeployerScaffolded": true,
+  "dataModelScaffolded": true,
+  "columnsScaffolded": true
 }
